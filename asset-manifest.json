@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/crpapp/static/css/main.073c9b0a.css",
-    "main.js": "/crpapp/static/js/main.3b03c7bd.js",
+    "main.js": "/crpapp/static/js/main.df76f39a.js",
     "static/js/787.28cb0dcd.chunk.js": "/crpapp/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/crpapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/crpapp/index.html",
     "main.073c9b0a.css.map": "/crpapp/static/css/main.073c9b0a.css.map",
-    "main.3b03c7bd.js.map": "/crpapp/static/js/main.3b03c7bd.js.map",
+    "main.df76f39a.js.map": "/crpapp/static/js/main.df76f39a.js.map",
     "787.28cb0dcd.chunk.js.map": "/crpapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3b03c7bd.js"
+    "static/js/main.df76f39a.js"
   ]
 }
