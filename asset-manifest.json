@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/crpapp/static/css/main.b007c072.css",
-    "main.js": "/crpapp/static/js/main.d3f40410.js",
+    "main.css": "/crpapp/static/css/main.95379f58.css",
+    "main.js": "/crpapp/static/js/main.3f4d2b08.js",
     "static/js/787.28cb0dcd.chunk.js": "/crpapp/static/js/787.28cb0dcd.chunk.js",
     "static/media/speed.png": "/crpapp/static/media/speed.b357ea27ace254e54c14.png",
-    "static/media/drift.png": "/crpapp/static/media/drift.010b0a8b8d332df210db.png",
     "static/media/ZeroTo80.png": "/crpapp/static/media/ZeroTo80.5e5a9ca710474f0ddbe8.png",
+    "static/media/drift.png": "/crpapp/static/media/drift.945ad7db19b097be1bcf.png",
     "static/media/index.png": "/crpapp/static/media/index.7027ea11538b78dd93e0.png",
     "index.html": "/crpapp/index.html",
-    "main.b007c072.css.map": "/crpapp/static/css/main.b007c072.css.map",
-    "main.d3f40410.js.map": "/crpapp/static/js/main.d3f40410.js.map",
+    "main.95379f58.css.map": "/crpapp/static/css/main.95379f58.css.map",
+    "main.3f4d2b08.js.map": "/crpapp/static/js/main.3f4d2b08.js.map",
     "787.28cb0dcd.chunk.js.map": "/crpapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b007c072.css",
-    "static/js/main.d3f40410.js"
+    "static/css/main.95379f58.css",
+    "static/js/main.3f4d2b08.js"
   ]
 }
